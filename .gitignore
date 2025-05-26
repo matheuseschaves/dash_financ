@@ -1,0 +1,16 @@
+# Ignore arquivos temporários e caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.log
+*.sqlite3
+*.xlsx
+*.csv
+
+# Ignore arquivos do Streamlit e editor
+.streamlit/
+*.env
+.vscode/
+*.bak
